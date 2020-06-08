@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Phupaa\\.nuget\\packages\\": {}
+    "/var/nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xdocs\\Projects.Dev\\VS.Code\\ASPNetApp\\ASPNetApp.csproj",
+      "projectUniqueName": "/home/vsonline/workspace/1stMVC/ASPNetApp.csproj",
       "projectName": "ASPNetApp",
-      "projectPath": "C:\\xdocs\\Projects.Dev\\VS.Code\\ASPNetApp\\ASPNetApp.csproj",
-      "packagesPath": "C:\\Users\\Phupaa\\.nuget\\packages\\",
-      "outputPath": "C:\\xdocs\\Projects.Dev\\VS.Code\\ASPNetApp\\obj\\",
+      "projectPath": "/home/vsonline/workspace/1stMVC/ASPNetApp.csproj",
+      "packagesPath": "/var/nuget",
+      "outputPath": "/home/vsonline/workspace/1stMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Phupaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/vsonline/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +51,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -67,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.100/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }
