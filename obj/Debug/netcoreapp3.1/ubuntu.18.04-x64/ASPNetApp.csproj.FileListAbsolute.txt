@@ -1,0 +1,8 @@
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.csprojAssemblyReference.cache
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/staticwebassets/ASPNetApp.StaticWebAssets.Manifest.cache
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/staticwebassets/ASPNetApp.StaticWebAssets.xml
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.MvcApplicationPartsAssemblyInfo.cache
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.RazorAssemblyInfo.cache
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.RazorAssemblyInfo.cs
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.AssemblyInfoInputs.cache
+/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ubuntu.18.04-x64/ASPNetApp.AssemblyInfo.cs

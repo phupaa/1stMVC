@@ -45,16 +45,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -64,11 +54,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.100/sdk/3.1.100/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "ubuntu.18.04-x64": {
-          "#import": []
         }
       }
     }
