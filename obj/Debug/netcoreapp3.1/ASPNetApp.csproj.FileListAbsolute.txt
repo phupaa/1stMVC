@@ -1,8 +1,0 @@
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.csprojAssemblyReference.cache
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/staticwebassets/ASPNetApp.StaticWebAssets.Manifest.cache
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/staticwebassets/ASPNetApp.StaticWebAssets.xml
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.MvcApplicationPartsAssemblyInfo.cache
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.RazorAssemblyInfo.cache
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.RazorAssemblyInfo.cs
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.AssemblyInfoInputs.cache
-/home/vsonline/workspace/1stMVC/obj/Debug/netcoreapp3.1/ASPNetApp.AssemblyInfo.cs
